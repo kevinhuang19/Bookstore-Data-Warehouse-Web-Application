@@ -5,7 +5,7 @@ Includes a Data warehouse that keeps track of history and display the analytics 
 
 # Set-up #
 1. Execute sql files
-2. Update to connections to local system
+2. Modify connections to local system
 3. Run web application
 
 
