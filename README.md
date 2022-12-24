@@ -8,7 +8,7 @@ Includes a Data warehouse that keeps track of history and display the analytics 
 2. Modify connections to local system
 3. Run web application
 
-#Tech Stack #
+# Tech Stack #
 1. HTML
 2. CSS
 3. JavaScript
