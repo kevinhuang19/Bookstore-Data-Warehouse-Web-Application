@@ -14,3 +14,5 @@ Includes a Data warehouse that keeps track of history and display the analytics 
 3. JavaScript
 4. PHP
 5. phpMyAdmin
+6. SQL
+7. Bootstrap
