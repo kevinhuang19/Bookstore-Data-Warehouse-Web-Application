@@ -16,5 +16,6 @@ Includes a Data warehouse that keeps track of history and display the analytics 
 5. phpMyAdmin
 6. SQL
 7. Bootstrap
+8. JQuery
 
 https://huang18g.myweb.cs.uwindsor.ca/4990Project/index.php
