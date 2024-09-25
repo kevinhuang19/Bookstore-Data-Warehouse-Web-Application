@@ -17,5 +17,6 @@ Includes a Data warehouse that keeps track of history and display the analytics 
 6. SQL
 7. Bootstrap
 8. JQuery
+9. ChartJS
 
 https://huang18g.myweb.cs.uwindsor.ca/4990Project/index.php
